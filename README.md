@@ -1,6 +1,6 @@
 # complier-design
 ## OUTPUTS
-## C PROGRAMMING()
+## C PROGRAMMING(https://github.com/SNEGHApc07/complier-design/tree/main/C%20programming)
 ## EXP-1 Comment or NOT()
 ## OUTPUT
 ## EXP-2 Token Recognition - to identify identifiers, constants, and operators()
@@ -42,6 +42,6 @@
 ## EXP-20 Ambiguous Grammar or NOT()
 ## OUTPUT
 
-## FLEX PROGRAMMING ()
+## FLEX PROGRAMMING (https://github.com/SNEGHApc07/complier-design/tree/main/FLEX%20PROGRAMMING)
 
 

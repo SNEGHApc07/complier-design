@@ -1,6 +1,8 @@
 # complier-design
 ## OUTPUTS
 ## C PROGRAMMING()
+## EXP-1 Comment or NOT()
+## OUTPUT
 ## EXP-2 Token Recognition - to identify identifiers, constants, and operators()
 ## OUTPUT
 ## EXP-3 ignore redundant spaces, tabs, and ignore comments.()
@@ -40,4 +42,6 @@
 ## EXP-20 Ambiguous Grammar or NOT()
 ## OUTPUT
 
-## OUTPUT
+## FLEX PROGRAMMING ()
+
+

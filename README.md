@@ -1,8 +1,10 @@
 # complier-design
 ## OUTPUTS
 ## C PROGRAMMING(https://github.com/SNEGHApc07/complier-design/tree/main/C%20programming)
-## EXP-1 Comment or NOT
+## EXP-1 Comment or NOT(https://github.com/SNEGHApc07/complier-design/blob/main/C%20programming/EXP%2001-Comment%20or%20NOT)
 ## OUTPUT
+![image](https://github.com/SNEGHApc07/complier-design/assets/112924718/76c2e375-b4b6-4eb5-9a08-64b85b24576a)
+
 ## EXP-2 Token Recognition - to identify identifiers, constants, and operators
 ## OUTPUT
 ## EXP-3 ignore redundant spaces, tabs, and ignore comments
